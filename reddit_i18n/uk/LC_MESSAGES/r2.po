@@ -29,19 +29,19 @@ msgstr ""
 
 #: r2/controllers/api.py:139
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr ""
+msgstr "дякуємо за ваше повідомлення! ви почнєте від нас незабаром."
 
 #: r2/controllers/api.py:167
 msgid "your message has been delivered"
-msgstr ""
+msgstr "ваше повідомлення було доставлено"
 
 #: r2/controllers/api.py:356
 msgid "no title found"
-msgstr ""
+msgstr "заголовок не знайдено"
 
 #: r2/controllers/api.py:550 r2/controllers/promotecontroller.py:394
 msgid "added"
-msgstr ""
+msgstr "додано"
 
 #: r2/controllers/api.py:577 r2/controllers/api.py:1089
 #: r2/controllers/api.py:1247 r2/controllers/api.py:1362
@@ -53,23 +53,23 @@ msgstr ""
 #: r2/controllers/promotecontroller.py:515 r2/lib/menus.py:50
 #: r2/templates/frametoolbar.html:200 r2/templates/printablebuttons.html:175
 msgid "saved"
-msgstr ""
+msgstr "збережено"
 
 #: r2/controllers/api.py:609
 msgid "you should be getting a verification email shortly."
-msgstr ""
+msgstr "ви повинні отримати email з підтвердження незабаром"
 
 #: r2/controllers/api.py:611
 msgid "your email has been updated"
-msgstr ""
+msgstr "ваш email був поновлений"
 
 #: r2/controllers/api.py:620
 msgid "your email and password have been updated"
-msgstr ""
+msgstr "ваш email та пароль були оновлені"
 
 #: r2/controllers/api.py:623
 msgid "your password has been updated"
-msgstr ""
+msgstr "ваш пароль був оновлений"
 
 #: r2/controllers/api.py:901
 msgid "replied"
